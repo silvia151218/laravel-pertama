@@ -7,6 +7,6 @@
     <title>Urutan</title>
 </head>
 <body>
-    Urutan ke - {{$ke}}
+    @yield('content')
 </body>
-</html>
+</html> 
